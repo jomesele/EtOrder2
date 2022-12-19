@@ -1,0 +1,10 @@
+#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
+Django==2.2.18
+django-crispy-forms==1.7.0
+django-currentuser==0.4.2
+django-extensions==2.2.5
+Pillow==8.1.1
+pytz==2019.3
+six==1.13.0
+sqlparse==0.3.0
+
